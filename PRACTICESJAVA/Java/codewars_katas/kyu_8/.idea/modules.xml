@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/are_you_playing_banjo.java.iml" filepath="$PROJECT_DIR$/are_you_playing_banjo.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tests_cases.iml" filepath="$PROJECT_DIR$/tests_cases.iml" />
+    </modules>
+  </component>
+</project>
